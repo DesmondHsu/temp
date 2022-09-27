@@ -1,0 +1,24 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "target": "ES2019",
+    "module": "commonjs",
+    "lib": ["dom", "esnext"],
+    "noImplicitAny": true,
+    "noImplicitThis": true,
+    "noImplicitReturns": true,
+    "noFallthroughCasesInSwitch": false,
+    "sourceMap": false,
+    "esModuleInterop": true,
+    "inlineSources": true,
+    "inlineSourceMap": true,
+    "resolveJsonModule": true,
+    "strictPropertyInitialization": false,
+    "moduleResolution": "node",
+    "rootDir": "",
+    "skipLibCheck": true,
+    "strict": true,
+    "jsx": "react-jsx"
+  },
+}
