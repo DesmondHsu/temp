@@ -2,3 +2,4 @@ node_modules/
 .idea/
 .pnp/
 .pnp.js
+.yarn/cache/
